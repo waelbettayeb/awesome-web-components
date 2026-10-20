@@ -417,6 +417,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [DNA](https://github.com/chialab/dna) - Progressive Web Components library.
 - [element-js](https://github.com/webtides/element-js) - Simple and lightweight base classes for web components with a beautiful API.
+- [ElementsKit](https://elements-kit.com/custom-elements) - Native custom elements enhanced gradually with signals, JSX and decorators, all optional.
 - [FAST Element](https://github.com/microsoft/fast/tree/main/packages/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 - [Joist](https://github.com/joist-framework/joist) - Set of small libraries designed to add the bare minimum to web components to make you productive.
 - [Lit](https://lit.dev) - Simple library for building fast, lightweight web components.
