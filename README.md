@@ -327,6 +327,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
 - [Dile Components](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
 - [github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
+- [ElementsKit UI](https://elements-kit.com/ui) - Accessible, framework-agnostic UI components as custom elements or JSX, with design tokens, a Storybook and a Figma library.
 - [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
 - [Fusion Web Components](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
